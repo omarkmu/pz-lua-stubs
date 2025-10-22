@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has been archived in favor of the combined [Umbrella](https://github.com/PZ-Umbrella/Umbrella) repository. The stubs here are out-of-date (created for PZ 41.78.16).
+
 # pz-lua-stubs
 
 Lua typestubs for the Project Zomboid Lua source.
